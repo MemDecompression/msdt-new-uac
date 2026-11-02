@@ -1,3 +1,13 @@
+During research into new UAC bypass methods, I found that when launching:
+
+```cmd
+c:\windows\syswow64\msdt.exe -path C:\WINDOWS\diagnostics\index\AudioRecordingDiagnostic.xml -skip yes
+```
+
+the elevated process searches for DLLs in writable paths. This can lead us to code execution with elevated privileges.
+
+To test it, compile the DLL as x86 AudioDiagnosticUtil.dll.
+Logically very close to https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass, but technically a new method. Very strange it wasn't discovered earlier
 
 
 ```cmd
