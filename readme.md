@@ -26,4 +26,9 @@ Work on windows 10/11
 
 Windows Defender, Kaspersky, ElasticEdr, Avast are silent 
 
+Add exclusion without detection
+
+https://github.com/MemDecompression/msdt-new-uac/blob/main/defender.cpp
+
+
 
