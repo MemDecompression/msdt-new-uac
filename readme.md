@@ -26,11 +26,6 @@ Work on windows 10/11 (11 with last updates)
 
 Windows Defender, Kaspersky, ElasticEdr, Avast not detecting this technique
 
-Add folder in exclusion to wd for dropoing second stage builds
-
-https://github.com/MemDecompression/msdt-new-uac/blob/main/defender.cpp
-
-
 only for educational purposes
 
 
