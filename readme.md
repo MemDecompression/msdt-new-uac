@@ -26,6 +26,8 @@ Work on windows 10/11 (11 with last updates)
 
 Windows Defender, Kaspersky, ElasticEdr, Avast not detecting this technique
 
+You can use this dll https://github.com/MemDecompression/msdt-new-uac/blob/main/defender.cpp as payload if you want add some folder to exclusion 
+
 only for educational purposes
 
 
