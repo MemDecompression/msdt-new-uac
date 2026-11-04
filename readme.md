@@ -24,7 +24,7 @@ c:\windows\syswow64\msdt.exe -path C:\WINDOWS\diagnostics\index\AudioRecordingDi
 
 Work on windows 10/11 
 
-Windows Defender, Kaspersky, ElasticEdr, Avast are silent 
+Windows Defender, Kaspersky, ElasticEdr, Avast not detecting this technique
 
 Add folder in exclusion to wd for dropoing second stage builds
 
