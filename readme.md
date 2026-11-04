@@ -31,4 +31,6 @@ Add Exclusion to wd
 https://github.com/MemDecompression/msdt-new-uac/blob/main/defender.cpp
 
 
+only for educational purposes
+
 
