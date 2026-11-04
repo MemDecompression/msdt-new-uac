@@ -9,7 +9,7 @@ the elevated process searches for DLLs in writable paths. This can lead us to co
 To test it, compile the DLL as x86 AudioDiagnosticUtil.dll.
 
 
-Logically very close to https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass, but technically a new method. Very strange it wasn't discovered earlier
+Logically very close to https://blog.sevagas.com/?MSDT-DLL-Hijack-UAC-bypass, but technically this is a new method. Very strange it wasn't discovered earlier
 
 Bluetooth must be disabled on the machine
 
